@@ -1,6 +1,6 @@
 ---
-title:  for Unity3D
-description: 
+title:  Auth for Unity3D
+description: Authentication Decoupler for Unity3D
 ---
 * Table of Contents
 {:toc}
